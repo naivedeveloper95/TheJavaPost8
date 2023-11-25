@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module PatientClinicals {
+	requires PatientManagement;
+}
