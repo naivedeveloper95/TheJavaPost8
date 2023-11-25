@@ -5,5 +5,5 @@
  * 
  */
 module PatientClinicals {
-	requires PatientManagement;
+	requires transitive PatientManagement;
 }

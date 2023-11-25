@@ -5,4 +5,5 @@
  * 
  */
 module PatientBilling {
+	requires PatientClinicals;
 }
