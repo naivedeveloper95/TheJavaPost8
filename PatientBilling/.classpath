@@ -6,12 +6,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/PatientClinicals">
+	<classpathentry kind="src" path="/AggregatorModule">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/PatientManagement">
+	<classpathentry kind="src" path="/PatientManagement">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>

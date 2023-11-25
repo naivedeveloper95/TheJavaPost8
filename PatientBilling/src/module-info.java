@@ -5,5 +5,6 @@
  * 
  */
 module PatientBilling {
-	requires PatientClinicals;
+	requires AggregatorModule;
+	requires PatientManagement;
 }

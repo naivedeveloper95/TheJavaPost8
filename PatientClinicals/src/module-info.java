@@ -5,5 +5,7 @@
  * 
  */
 module PatientClinicals {
-	requires transitive PatientManagement;
+	exports com.java9.pc;
+
+	requires PatientManagement;
 }
